@@ -23,6 +23,3 @@
 
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
-<div align="center">
-[![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=Elenwu&show_icons=true&theme=default_repocard)](https://github.com/anuraghazra/github-readme-stats) 
-</div>
